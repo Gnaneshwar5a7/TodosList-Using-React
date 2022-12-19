@@ -20,7 +20,7 @@ const Footer = () => {
         <li><a style={mystyle} href="https://www.instgram.com/sindhe.gnaneshwar">Instagram</a></li>
       </ul>
       <p className='text-center'>
-        Copyright &copy; Mytodoslist.com
+        Copyright &copy; Todoslist-management.000webhostapp.com
       </p>
     </footer>
   )
